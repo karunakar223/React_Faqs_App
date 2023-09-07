@@ -1,0 +1,39 @@
+/* Write your code here. */
+.li-item {
+  list-style-type: none;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.main-container {
+  border: 1px solid #d7dae6;
+  padding: 8px;
+  margin-bottom: 14px;
+  width: 800px;
+  border-radius: 8px;
+  min-height: auto;
+}
+
+hr {
+  border: 1px solid #e4e7eb;
+}
+
+.answer {
+  color: #9aa5b1;
+  font-size: 13px;
+  font-weight: 400;
+}
+.heading {
+  color: #52606d;
+  font-size: 18px;
+  font-weight: 400;
+  width: 500px;
+}
+.btn {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
